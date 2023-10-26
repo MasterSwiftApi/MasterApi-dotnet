@@ -15,8 +15,8 @@ namespace NorenRestSample
     {
         #region dev  credentials
 
-        public const string endPoint = "http://api.noren.com/NorenWClient/";
-        public const string wsendpoint = "wss://api.noren.com/NorenWSWeb/";
+        public const string endPoint = "https://mid.mastertrust.co.in/NorenWClientTP/";
+        public const string wsendpoint = "wss://mid.mastertrust.co.in/NorenWSTP/";
         public const string uid = "";
         public const string actid = "";
         public const string pwd = "";
